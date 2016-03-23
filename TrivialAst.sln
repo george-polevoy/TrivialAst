@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrivialAst.Model", "TrivialAst.Model\TrivialAst.Model.csproj", "{4385940F-81B1-4BE8-A5ED-A4F5487D9A59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D989F051-4301-4089-A076-87553423F5E0}"
+	ProjectSection(SolutionItems) = preProject
+		TrivialAst.Model\TrivialAst.Model.nuspec = TrivialAst.Model\TrivialAst.Model.nuspec
+		TrivialAst.Parser.CSharp\TrivialAst.Parser.nuspec = TrivialAst.Parser.CSharp\TrivialAst.Parser.nuspec
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrivialAst.Parser.CSharp", "TrivialAst.Parser.CSharp\TrivialAst.Parser.CSharp.csproj", "{76FF2E1E-C743-49A6-97E4-4A9F80EF0C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrivialAst.Parser.CSharp.UnitTests", "TrivialAst.Parser.CSharp.UnitTests\TrivialAst.Parser.CSharp.UnitTests.csproj", "{904BB40E-6498-40E8-AB77-CD28FB9327E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4385940F-81B1-4BE8-A5ED-A4F5487D9A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4385940F-81B1-4BE8-A5ED-A4F5487D9A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4385940F-81B1-4BE8-A5ED-A4F5487D9A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4385940F-81B1-4BE8-A5ED-A4F5487D9A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FF2E1E-C743-49A6-97E4-4A9F80EF0C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FF2E1E-C743-49A6-97E4-4A9F80EF0C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FF2E1E-C743-49A6-97E4-4A9F80EF0C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FF2E1E-C743-49A6-97E4-4A9F80EF0C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904BB40E-6498-40E8-AB77-CD28FB9327E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904BB40E-6498-40E8-AB77-CD28FB9327E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904BB40E-6498-40E8-AB77-CD28FB9327E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904BB40E-6498-40E8-AB77-CD28FB9327E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
