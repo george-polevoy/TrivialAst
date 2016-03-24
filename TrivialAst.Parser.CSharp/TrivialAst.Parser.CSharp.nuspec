@@ -13,7 +13,7 @@
     <copyright>Copyright 2016</copyright>
     <tags>Expression Parser Calculator C# Roslyn</tags>
     <dependencies>
-      <dependency id="TrivialAst.Model" version="[1.0.0-alpha, 2.0)" />
+      <dependency id="TrivialAst.Model" version="[1.0.0, 2.0)" />
     </dependencies>
   </metadata>
 </package>
