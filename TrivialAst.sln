@@ -8,7 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D989F051-4301-4089-A076-87553423F5E0}"
 	ProjectSection(SolutionItems) = preProject
 		TrivialAst.Model\TrivialAst.Model.nuspec = TrivialAst.Model\TrivialAst.Model.nuspec
-		TrivialAst.Parser.CSharp\TrivialAst.Parser.nuspec = TrivialAst.Parser.CSharp\TrivialAst.Parser.nuspec
+		TrivialAst.Parser.CSharp\TrivialAst.Parser.CSharp.nuspec = TrivialAst.Parser.CSharp\TrivialAst.Parser.CSharp.nuspec
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrivialAst.Parser.CSharp", "TrivialAst.Parser.CSharp\TrivialAst.Parser.CSharp.csproj", "{76FF2E1E-C743-49A6-97E4-4A9F80EF0C11}"
